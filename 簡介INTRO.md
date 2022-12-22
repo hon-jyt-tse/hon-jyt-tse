@@ -3,7 +3,7 @@
 <!---
 - I’m currently learning ...
 - I’m looking to collaborate on ...
-- 聯絡方法：私訊我。Contact me: private-message me.
+- 聯絡方法：私訊我，或在中文維基百科聯絡我。Contact me: private-message me, or contact me on chinese wikipedia.
 
 hon-jyt-tse/hon-jyt-tse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
